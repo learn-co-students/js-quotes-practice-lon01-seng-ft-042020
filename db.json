@@ -31,28 +31,10 @@
       "author": "Sandra Day O'Connor"
     },
     {
-      "id": 7,
-      "quote": "Tell me and I forget, teach me and I remember, involve me and I learn.",
-      "author": "Benjamin Franklin"
-    },
-    {
-      "id": 8,
-      "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-      "author": "Winston Churchhill"
-    },
-    {
-      "id": 9,
-      "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
-      "author": "Confucius"
-    },
-    {
-      "id": 10,
-      "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
-      "author": "Sonia Sotomayor"
-    },
-    {
-      "quoteId": 2,
-      "id": 11
+      "quote": " The purpose of our lives is to be happy",
+      "author": "Dalai Lama",
+      "likes": [],
+      "id": 7
     }
   ],
   "likes": [
@@ -60,6 +42,54 @@
       "id": 1,
       "quoteId": 1,
       "createdAt": 1558524356
+    },
+    {
+      "quoteId": 1,
+      "id": 2
+    },
+    {
+      "quoteId": 2,
+      "id": 3
+    },
+    {
+      "quoteId": 7,
+      "id": 4
+    },
+    {
+      "quoteId": 7,
+      "id": 5
+    },
+    {
+      "quoteId": 7,
+      "id": 6
+    },
+    {
+      "quoteId": 7,
+      "id": 7
+    },
+    {
+      "quoteId": 1,
+      "id": 8
+    },
+    {
+      "quoteId": 1,
+      "id": 9
+    },
+    {
+      "quoteId": 1,
+      "id": 10
+    },
+    {
+      "quoteId": 1,
+      "id": 11
+    },
+    {
+      "quoteId": 1,
+      "id": 12
+    },
+    {
+      "quoteId": 1,
+      "id": 13
     }
   ]
 }
