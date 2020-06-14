@@ -1,16 +1,6 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
-      "author": "Ann Richards"
-    },
-    {
-      "id": 2,
-      "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-      "author": "Collin Powell"
-    },
-    {
       "id": 3,
       "quote": "Don't count the days, make the days count.",
       "author": "Mike Tyson"
@@ -49,17 +39,63 @@
       "id": 10,
       "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
       "author": "Sonia Sotomayor"
-    },
-    {
-      "quoteId": 2,
-      "id": 11
     }
   ],
   "likes": [
     {
-      "id": 1,
-      "quoteId": 1,
-      "createdAt": 1558524356
+      "quoteId": 4,
+      "createdAt": "2020-06-14T11:02:22.769Z",
+      "id": 4
+    },
+    {
+      "quoteId": 10,
+      "createdAt": "2020-06-14T11:27:02.128Z",
+      "id": 7
+    },
+    {
+      "quoteId": 3,
+      "createdAt": "2020-06-14T11:40:29.852Z",
+      "id": 16
+    },
+    {
+      "quoteId": 3,
+      "createdAt": "2020-06-14T12:01:14.492Z",
+      "id": 17
+    },
+    {
+      "quoteId": 7,
+      "createdAt": "2020-06-14T12:01:16.759Z",
+      "id": 18
+    },
+    {
+      "quoteId": 7,
+      "createdAt": "2020-06-14T12:01:22.120Z",
+      "id": 19
+    },
+    {
+      "quoteId": 7,
+      "createdAt": "2020-06-14T12:01:29.468Z",
+      "id": 20
+    },
+    {
+      "quoteId": 3,
+      "createdAt": "2020-06-14T12:01:38.314Z",
+      "id": 21
+    },
+    {
+      "quoteId": 3,
+      "createdAt": "2020-06-14T12:01:40.897Z",
+      "id": 22
+    },
+    {
+      "quoteId": 3,
+      "createdAt": "2020-06-14T12:02:38.912Z",
+      "id": 23
+    },
+    {
+      "quoteId": 7,
+      "createdAt": "2020-06-14T12:02:54.647Z",
+      "id": 24
     }
   ]
 }
